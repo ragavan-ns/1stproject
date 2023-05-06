@@ -8,5 +8,5 @@ def fact(f):
     else:
         return f*fact(f - 1)
 
-a = 5
+a = 10
 print("the factorial is :",fact(a))
