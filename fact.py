@@ -1,6 +1,6 @@
 #program to calculate the factorial of a number
 
-#let as consider a = 19
+#let as consider a = 10
 
 def fact(f):
     if f == 1 or f == 0:
